@@ -1,0 +1,11 @@
+I am learning to use github with the odin project.
+This file is being edited with VSCode on Zorin OS and it
+will display "Hello, World"
+
+#include <iostream>
+using namespace std;
+int main ()
+{
+  cout << "Hello, world!";
+  return 0;
+}
